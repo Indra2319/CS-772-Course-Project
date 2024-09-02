@@ -1,2 +1,2 @@
-# CS-772-Course-Project
-Machine Unlearning
+# CS772
+Probabilistic Machine Learning
